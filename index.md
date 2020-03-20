@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>RUNBURNAPR</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta http-equiv="Content-Type" content="text/html;>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" border="0" cellpadding="0" cellspacing="0">
