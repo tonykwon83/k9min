@@ -6,7 +6,7 @@
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td colspan="2">
+		<td colspan="1">
 			<img src="https://user-images.githubusercontent.com/62431282/77168629-7629ae00-6afb-11ea-9246-4849a138528c.jpg" width="720" height="774" alt=""></td>
 	</tr>
 	<tr>
