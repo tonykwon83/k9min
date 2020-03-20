@@ -8,7 +8,7 @@
 <table id="Table_01" width="720" height="1800" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td colspan="2">
-			<img src="![RUNBURNAPR_01](https://user-images.githubusercontent.com/62431282/77168629-7629ae00-6afb-11ea-9246-4849a138528c.jpg)" width="720" height="774" alt=""></td>
+			<img src="https://user-images.githubusercontent.com/62431282/77168629-7629ae00-6afb-11ea-9246-4849a138528c.jpg" width="720" height="774" alt=""></td>
 	</tr>
 	<tr>
 		<td>
