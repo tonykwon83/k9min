@@ -5,11 +5,10 @@
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" border="0" cellpadding="0" cellspacing="0">
-<font-size:0;>
 	<tr>
 		<td>
-			<img style="display:block;" img src="https://user-images.githubusercontent.com/62431282/77170473-6d86a700-6afe-11ea-914f-4a974d679469.jpg" width="492" height="692" alt=""><font-size:0;></td>
-		<td>
+			<img style="display:block;" img src="https://user-images.githubusercontent.com/62431282/77170473-6d86a700-6afe-11ea-914f-4a974d679469.jpg" width="492" height="692" alt=""></td>
+		<td>{font-size:12px;}
 			<img style="display:block;" img src="https://user-images.githubusercontent.com/62431282/77170475-6e1f3d80-6afe-11ea-9c99-ee179f2b22c3.jpg" width="228" height="692" alt=""><font-size:0;></td>
 	</tr>
 	<tr>
