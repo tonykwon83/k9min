@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tonykwon83/tonykwon83.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonykwon83/tonykwon83.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title>RUNBURNAPR</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (RUNBURNAPR.psd) -->
+<table id="Table_01" width="720" height="1800" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<img src="images/RUNBURNAPR_01.jpg" width="720" height="774" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/RUNBURNAPR_02.jpg" width="488" height="253" alt=""></td>
+		<td>
+			<a href="https://map.naver.com/v5/?c=14146686.9164643,4511547.4977902,17,0,0,0,dh" target="_blank">
+				<img src="images/RUNBURNAPR_03.jpg" width="232" height="253" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://band.us/@runburn" target="_blank">
+				<img src="images/RUNBURNAPR_04.jpg" width="488" height="131" border="0" alt=""></a></td>
+		<td>
+			<img src="images/RUNBURNAPR_05.jpg" width="232" height="131" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/RUNBURNAPR_06.jpg" width="488" height="642" alt=""></td>
+		<td>
+			<img src="images/RUNBURNAPR_07.jpg" width="232" height="642" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
