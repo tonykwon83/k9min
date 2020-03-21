@@ -4,10 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table id="Table_01" width="720" height="1800" border="0" margin="0" cellpadding="0" cellspacing="0" max-width:'100%'>
-<style>
-img { max-width:100%; height:auto }
-</style>
+<table id="Table_01" width="720" height="1800" border="0" margin="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td>
 			<img src="https://user-images.githubusercontent.com/62431282/77170473-6d86a700-6afe-11ea-914f-4a974d679469.jpg" width="492" height="692" border="0" alt="" img style="display:block" style="vertical-align:bottom"></td>
