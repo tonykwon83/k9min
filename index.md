@@ -1,8 +1,7 @@
 <html>
 <head>
  <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-	<style>
-	 img {display: block;}
+	<style> img{display:block;} img{vertical-align:top;}
 	</style>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
