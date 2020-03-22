@@ -1,11 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
  <meta http-equiv="content-type" content="text/html; charset=euc-kr">
 	<style>
-	 img {
-          display: block;
-	 }
+	 img {display: block;}
 	</style>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
