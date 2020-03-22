@@ -1,10 +1,9 @@
 <html>
 <head>
-<title>April2</title>
+<title></title>
 <style>
 body, td, img {margin:0; padding:0;}
-img{display:block;} 
-img{vertical-align:top;}
+img{display:block; border:0px} 
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
 </head>
@@ -12,21 +11,11 @@ img{vertical-align:top;}
 <!-- Save for Web Slices (April2) -->
 <table id="Table_01" width="640" height="1607" border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td>
 			<img src="https://user-images.githubusercontent.com/62431282/77241533-ade94080-6c36-11ea-92d7-e57262b5a47a.jpg" width="640" height="691" alt=""></td>
-	</tr>
-	<tr>
-		<td>
                         <a href="https://map.naver.com/v5/?c=14146686.9164643,4511547.4977902,17,0,0,0,dh" target="_blank">
-			<img src="https://user-images.githubusercontent.com/62431282/77241534-afb30400-6c36-11ea-9414-ab6fa36108b8.jpg" width="640" height="226" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
+			<img src="https://user-images.githubusercontent.com/62431282/77241534-afb30400-6c36-11ea-9414-ab6fa36108b8.jpg" width="640" height="226" alt=""></a>
                         <a href="https://band.us/@runburn" target="_blank">
 			<img src="https://user-images.githubusercontent.com/62431282/77241535-afb30400-6c36-11ea-80eb-ffbb9b328412.jpg" width="640" height="108" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
 			<img src="https://user-images.githubusercontent.com/62431282/77241536-b04b9a80-6c36-11ea-932b-aa9d430e4f15.jpg" width="640" height="582" alt=""></td>
 	</tr>
 </table>
