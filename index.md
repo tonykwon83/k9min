@@ -2,7 +2,7 @@
 <html>
 <head>
  <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<title><title/>
+<title>image margin problem<title/>
 <style>
 	body, td, img {margin:0; padding:0;}
 	img{display:block;} 
