@@ -1,13 +1,14 @@
 
 <html>
 <head>
- <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<title>image margin problem<title/>
+<title>image margin problem
+<title/>
 <style>
 	body, td, img {margin:0; padding:0;}
 	img{display:block;} 
 	img{vertical-align:top;}
 </style>
+<meta http-equiv="content-type" content="text/html; charset=euc-kr">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" border="0" margin="0" cellpadding="0" cellspacing="0" align ="">
