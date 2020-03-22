@@ -2,7 +2,7 @@
 <html>
 <head>
  <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-	<style type="text/css">
+	<style>
 	 img {
           display: block;
 	 }
