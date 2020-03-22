@@ -1,6 +1,7 @@
 <html>
 <head>
-<title>Run&Burn April</title>
+<title>
+</title>
 <meta http-equiv="content-type" content="text/html; charset=euc-kr">
 <style>
 img {display:block;}
