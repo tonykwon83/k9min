@@ -2,9 +2,9 @@
 <head>
 <title>Run&Burn April</title>
 <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<style type="text/css">
+<style>
 img {display:block;}
-img{vertical-align:top;}
+img {vertical-align:top;}
 </style>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
