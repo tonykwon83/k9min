@@ -3,7 +3,7 @@ html>
 <title>Run&Burn April</title>
 <meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
 </head>
-<body bgcolor="#FFFFFF" style="margin:0px; padding:0px; leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" padding="0"border="0" margin="0" cellpadding="0" cellspacing="0" align ="">
 	
 	<tr>
