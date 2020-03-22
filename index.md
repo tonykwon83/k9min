@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-</title>
-<meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<style>
-img {display:block;}
-img {vertical-align:top;}
-</style>
+ <meta http-equiv="content-type" content="text/html; charset=euc-kr">
+ <style>
+  img {display:block;}
+  img {vertical-align:top;}
+ </style>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table id="Table_01" width="720" height="1800" border="0" margin="0" cellpadding="0" cellspacing="0" align ="">
