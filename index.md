@@ -17,7 +17,6 @@ img{display:block; border:0px}
                         <a href="https://band.us/@runburn" target="_blank">
 			<img src="https://user-images.githubusercontent.com/62431282/77241535-afb30400-6c36-11ea-80eb-ffbb9b328412.jpg" width="640" height="108" alt=""></a>
 			<img src="https://user-images.githubusercontent.com/62431282/77241536-b04b9a80-6c36-11ea-932b-aa9d430e4f15.jpg" width="640" height="582" alt="">		
-	</tr></td>
 </table>
 <!-- End Save for Web Slices -->
 </body>
