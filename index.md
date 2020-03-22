@@ -1,8 +1,7 @@
 
 <html>
 <head>
-<title>image margin problem
-<title/>
+<title>image margin<title/>
 <style>
 	body, td, img {margin:0; padding:0;}
 	img{display:block;} 
